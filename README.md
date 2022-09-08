@@ -17,5 +17,20 @@ The **Asian Civilisations Museumâ€™s** collections focus mostly on **Singaporeâ€
  * Fountain Of Wealth
  * Singapore Botanic Garden
  * Imm Outlet Mall
- 
+
  [My image](Image.jpeg)
+
+ ***
+
+ ## Places to visit
+
+ The table describes the places that are popular and most visited.
+
+ | Name of the city | Location | Time to spend |
+ |-----|----|-----|
+ | Newyork | Times square | 12hours |
+ | Hyderabad | Charminar | 8hours |
+ | Delhi | RedFort | 6hours |
+ | Pondicherry | Auroville Beach | 5hours |
+
+ 
