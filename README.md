@@ -33,4 +33,10 @@ The **Asian Civilisations Museum’s** collections focus mostly on **Singapore�
  | Delhi | RedFort | 6hours |
  | Pondicherry | Auroville Beach | 5hours |
 
- 
+ ***
+
+ > A writer is someone for whom writing is more difficult than it is for other people.
+ ― *Thomas Mann*
+
+ > A good novel tells us the truth about its hero; but a bad novel tells us the truth about its author.”
+― *G.K. Chesterton*
