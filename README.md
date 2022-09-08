@@ -40,3 +40,17 @@ The **Asian Civilisations Museum’s** collections focus mostly on **Singapore�
 
  > A good novel tells us the truth about its hero; but a bad novel tells us the truth about its author.”
 ― *G.K. Chesterton*
+
+***
+# Code Fencing
+> Where is it best to declare the font-family CSS property? On the html or body element? <br>
+<https://stackoverflow.com/questions/42925682/where-to-set-font-family-body-or-html-element>
+
+```
+body {
+  font-family: system-ui;
+  font-size: 62.5%  /* 1em = 10px */
+  line-height: 1.4;
+}
+```
+<https://css-tricks.com/snippets/css/comments-in-css/>
