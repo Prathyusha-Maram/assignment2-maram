@@ -13,3 +13,7 @@ The **Asian Civilisations Museumâ€™s** collections focus mostly on **Singaporeâ€
  4. Turn left onto North Bridge Road, later turn left onto Parliament Place.
  5. Keep straight to get onto Parliament Lane, now turn right onto Old Parliament Lane.
  6. Arrive at Old Parliament Lane and the museum has arrived.
+
+ * Fountain Of Wealth
+ * Singapore Botanic Garden
+ * Imm Outlet Mall
